@@ -89,6 +89,7 @@ sudo dpkg -i libevdev*
 * Initialize the git submodules ``git submodule update --init``
 
 ```
+mkdir build
 cd build/
 cmake ../
 make
